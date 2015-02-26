@@ -1,0 +1,10 @@
+My Github repo link : https://github.com/nachi1490/Web_Science_Labs_Nachiket
+
+Group Project Git repo link: https://github.com/mithunkumarnallu/ITWS6961-Group10
+
+Group 10 project server: 
+   index page: https://websci-team10.herokuapp.com/
+   server resource management: https://id.heroku.com/login
+
+access for TA and professor was sent through email, for instructions please check:
+https://devcenter.heroku.com/articles/collab 

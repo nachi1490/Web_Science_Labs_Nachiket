@@ -1,0 +1,17 @@
+.cnt {
+    width: 20px;
+    height: 12px;
+}
+
+.cnt img {
+    width: 10%;
+    height: auto;
+}
+#fl{
+	background-image: url("images/black.gif");
+	
+	background-repeat: no-repeat;
+	background-position: center;
+	margin-right: 200px;
+
+}
