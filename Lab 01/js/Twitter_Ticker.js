@@ -17,7 +17,7 @@ function load()
          var image = item.user.profile_image_url;   //parse image from JSON
          ticker.find("#image").error(function(){    // if the read image is invalid, put another image
        
-        $(this).attr('src', 'photo.jpg');
+        $(this).attr('src', 'images/photo.jpg');
 
           });
 
