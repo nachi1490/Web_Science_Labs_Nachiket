@@ -1,0 +1,60 @@
+body{
+
+	background-color: #d0e4fe;
+}
+
+#mainDiv{
+
+	border: 1px solid #a1a1a1;
+    padding: 80px;
+    background: #94E0A2;
+    width: 80%;
+    height: 200px;
+    overflow: hidden;
+    border-radius: 20px;
+
+}
+
+
+#dynamictweetDiv{	
+    background: #08D1BD;
+    height: 2px;
+    overflow: hidden;
+    border-radius: 20px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+
+}
+
+
+#dynamichashDiv{	
+
+	background: #08D1BD;
+    height: 50px;
+    overflow: hidden;
+    border-radius: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+
+#hashtagDiv{
+
+ 	border: 1px solid #a1a1a1;
+    padding: 80px;
+    background: #94E0A2;
+    width: 80%;
+    height: 200px;
+    overflow: hidden;
+    border-radius: 20px;
+ }
+
+ @media all and (max-width: 50em)
+    {
+        .my-breakpoint .ui-block-a, .my-breakpoint .ui-block-b
+        {
+            width: 100%;
+            float: none;
+        }
+    }
+
