@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+    <head lang="en">
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.0/angular.min.js"></script>
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+        <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+        <script src="/js/app.js"></script>
+        <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+        <script src="https://code.angularjs.org/1.3.9/angular-route.js"></script>
+        <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/bootstrap-table/1.7.0/bootstrap-table.min.css">
+        <script src="//cdnjs.cloudflare.com/ajax/libs/bootstrap-table/1.7.0/bootstrap-table.min.js"></script>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    </head>
+
+    <body ng-app="jetbrains" ng-controller="AppCtrl as app">
+        <div class="navbar navbar-inverse navbar-static-top">
+            <div class="container">
+                <div class="navbar-brand">
+                   Lab 7
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-2">
+                    <form class="form-vertical" role="form">
+                        <div class="form-group">
+                            <label for="tweetCount" class="control-label">Tweet count: </label>
+                            <input type="text" class="form-control" id="tweetCount" placeholder="Enter tweet count" ng-model="app.newCount"></input>
+                            <label for="tweetText" class="control-label">Tweet Text: </label>
+                            <input type="text" class="form-control" id="tweetText" placeholder="Enter tweet text" ng-model="app.newTweet"></input>
+                        </div>
+                        <div class="form-group">
+                            <label class="btn btn-success" id = "getTweets" ng-pattern="format">
+                                Get Tweets!
+                            </label>
+                        </div>
+                        <div class="form-group">
+                            <p id="no1"></p>
+                        </div>
+                    </form>
+                </div>
+                <div class="col-lg-2">
+                    <form class="form-vertical" role="form">
+                        <div class="form-group">
+                            <label for="nameCsv" class="control-label">Save as csv: </label>
+                            <input type="text" class="form-control" id="nameCsv" placeholder="Enter name of csv file"></input>
+                        </div>
+                        <div></div>
+                        <div class="form-group">
+                            <button type="button" onclick="download()" class="btn btn-success">Download CSV!</button>
+                        </div>
+                    </form>
+                </div>
+
+                <div class="col-lg-2">
+                    <form class="form-vertical" role="form">
+                        <div class="form-group">
+                            <label for="saveInMongo" ng-click="app.savemongo(app.newCount)" ng-pattern="format" class="control-label">Save in Mongo: </label>
+                            <input type="text" class="form-control" id="saveInMongo" placeholder="Enter tweet count" ng-model="app.newcount" ng-trim="false">
+                            <label for="MongoText" class="control-label" >Tweet Text: </label>
+                            <input type="text" class="form-control" placeholder="Enter tweet text" id="MongoText" ng-model="app.mongoText"></input>
+                        </div>
+                        <div class="form-group">
+                            <label class="btn btn-success" ng-click="app.saveInMongo(app.newcount)" ng-pattern="format">
+                                Save in Mongo!
+                            </label>
+                        </div>
+                    </form>
+                </div>
+
+                <div class="col-lg-2">
+                    <form class="form-vertical" role="form">
+                        <div class="form-group">
+                            <label for="readFromMongo" class="control-label">Read from Mongo: </label>
+                            <input type="text" class="form-control" id="readFromMongo" placeholder="Enter tweet count" ng-model="app.readFromMongoCount">
+                            </input>
+                        </div>
+                        <div class="form-group">
+                            <button class="btn btn-success" id="refresh" data-method="refresh">
+                                Read!
+                            </button>
+                        </div>
+                    </form>
+                </div>
+
+                <div class="col-lg-3">
+                    <form class="form-vertical" role="form">
+                        <div class="form-group">
+                            <label for="saveFromMongo" class="control-label">Save as json from Mongo: </label>
+                            <input type="text" class="form-control" id="saveFromMongo" placeholder="Enter file name" ng-model="app.saveFromMongoFileName">
+                            </input>
+                        </div>
+                        <div class="form-group">
+                            <label class="btn btn-success" ng-click="app.JSONFromMongo()">
+                                Save as json!
+                            </label>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <p id="message"></p>
+
+        <table id="table-methods-table" data-height="300"
+               data-pagination="true"
+               data-toggle="table"
+               data-search="true"
+               data-page-list="[5, 10, 20, 50, 100, 200]">
+            <thead>
+            <tr>
+                <th data-field="text">Tweets</th>
+            </tr>
+            </thead>
+        </table>
+        <script>
+            $(document).ready(function () {
+                $(this).hide();
+                var initData = ["sample_text"];
+                $table = $('#table-methods-table').bootstrapTable({
+                    data: initData
+                });
+                $('#refresh').click(function () {
+                    var c= $('#readFromMongo').val();
+                    $table.bootstrapTable('refresh', {
+                        url: '/getTweetsFromMongo?q='+c
+                    });
+                });
+
+                $('#getTweets').click(function () {
+                    var c= $('#tweetCount').val();
+                    var t= $('#tweetText').val();
+                    if(!t || !c){
+                        $('#message').html("Please enter the tweet count and the tweet text first");
+                        return;
+                    }
+                    $table.bootstrapTable('refresh', {
+                        url: '/getTweets?q='+c+"&tweet="+t
+                    });
+                });
+            });
+        </script>
+    </body>
+</html>
+

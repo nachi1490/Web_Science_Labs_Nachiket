@@ -1,0 +1,548 @@
+[
+  {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Fri Apr 17 00:31:02 +0000 2015",
+    "id": 588862195720654800,
+    "id_str": "588862195720654851",
+    "text": "@PaulMcCartney Hello: I remember a Russian peace tour you did some years ago. I think it helped. What about another one in this tense time?",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74712538,
+    "in_reply_to_user_id_str": "74712538",
+    "in_reply_to_screen_name": "PaulMcCartney",
+    "user": {
+      "id": 51972719,
+      "id_str": "51972719",
+      "name": "George R. Wilkes",
+      "screen_name": "GeorgeWilkes",
+      "location": "Fort Walton Beach, Florida",
+      "profile_location": null,
+      "description": "Per 31st Proverb: A woman of noble character will always “do him good and not evil”; also, it is “not for kings to drink wine; nor for princes strong drink”.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 39,
+      "friends_count": 28,
+      "listed_count": 1,
+      "created_at": "Mon Jun 29 05:37:43 +0000 2009",
+      "favourites_count": 3,
+      "utc_offset": -18000,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1458,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/584545300360007680/v8YqIBIo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/584545300360007680/v8YqIBIo_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "PaulMcCartney",
+          "name": "Paul McCartney",
+          "id": 74712538,
+          "id_str": "74712538",
+          "indices": [
+            0,
+            14
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Fri Apr 17 00:31:02 +0000 2015",
+    "id": 588862195456409600,
+    "id_str": "588862195456409600",
+    "text": "RT @lordflaconegro: I'm like hey wassup hello can u put some dog food in my doggy bowl http://t.co/JHOswQGxDd",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 232401493,
+      "id_str": "232401493",
+      "name": "Thamarlie",
+      "screen_name": "_thamarlie",
+      "location": "Killadelphia",
+      "profile_location": null,
+      "description": "instagram : thamarlie",
+      "url": "http://t.co/8G0TGR8gTb",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/8G0TGR8gTb",
+              "expanded_url": "http://ask.fm/thamarlie",
+              "display_url": "ask.fm/thamarlie",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 601,
+      "friends_count": 522,
+      "listed_count": 1,
+      "created_at": "Fri Dec 31 01:56:04 +0000 2010",
+      "favourites_count": 856,
+      "utc_offset": -18000,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 18143,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "DBE9ED",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000119086264/aa10c8770ef01e56b0b097106f2a4168.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000119086264/aa10c8770ef01e56b0b097106f2a4168.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/576873220923658240/twjgFwCg_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/576873220923658240/twjgFwCg_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/232401493/1367936014",
+      "profile_link_color": "CC3366",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "76B00A",
+      "profile_text_color": "616EC2",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Wed Apr 15 21:36:38 +0000 2015",
+      "id": 588455917831622700,
+      "id_str": "588455917831622657",
+      "text": "I'm like hey wassup hello can u put some dog food in my doggy bowl http://t.co/JHOswQGxDd",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 357953332,
+        "id_str": "357953332",
+        "name": "⠀⠀⠀⠀⠀",
+        "screen_name": "lordflaconegro",
+        "location": "follow me on vine ",
+        "profile_location": null,
+        "description": "⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀ ⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀ ⠀⠀⠀ ⠀⠀ ⠀⠀⠀⠀⠀funny stuff in my favs",
+        "url": "https://t.co/tqkvsRxvDX",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/tqkvsRxvDX",
+                "expanded_url": "https://vine.co/u/958249206789922816",
+                "display_url": "vine.co/u/958249206789…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 24578,
+        "friends_count": 154,
+        "listed_count": 46,
+        "created_at": "Fri Aug 19 04:23:34 +0000 2011",
+        "favourites_count": 154,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 35898,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F500F5",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/434896438003122176/L6IK3GNj.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/434896438003122176/L6IK3GNj.jpeg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/588530709498757120/ze6A7ZTm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/588530709498757120/ze6A7ZTm_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/357953332/1429153440",
+        "profile_link_color": "CC0000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "050F14",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 3352,
+      "favorite_count": 3089,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 588455910629969900,
+            "id_str": "588455910629969920",
+            "indices": [
+              67,
+              89
+            ],
+            "media_url": "http://pbs.twimg.com/media/CCqdiG8UEAAP6SS.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CCqdiG8UEAAP6SS.jpg",
+            "url": "http://t.co/JHOswQGxDd",
+            "display_url": "pic.twitter.com/JHOswQGxDd",
+            "expanded_url": "http://twitter.com/lordflaconegro/status/588455917831622657/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 453,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 800,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 768,
+                "h": 1024,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 3352,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "lordflaconegro",
+          "name": "⠀⠀⠀⠀⠀",
+          "id": 357953332,
+          "id_str": "357953332",
+          "indices": [
+            3,
+            18
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 588455910629969900,
+          "id_str": "588455910629969920",
+          "indices": [
+            87,
+            109
+          ],
+          "media_url": "http://pbs.twimg.com/media/CCqdiG8UEAAP6SS.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CCqdiG8UEAAP6SS.jpg",
+          "url": "http://t.co/JHOswQGxDd",
+          "display_url": "pic.twitter.com/JHOswQGxDd",
+          "expanded_url": "http://twitter.com/lordflaconegro/status/588455917831622657/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 453,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 800,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 768,
+              "h": 1024,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 588455917831622700,
+          "source_status_id_str": "588455917831622657",
+          "source_user_id": 357953332,
+          "source_user_id_str": "357953332"
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Fri Apr 17 00:31:02 +0000 2015",
+    "id": 588862194965729300,
+    "id_str": "588862194965729280",
+    "text": "🐻🌹🐻🌹🐻🌹🐻\n\n@NormaniKordei 💕\n\nHELLO MY SUNSHINE HOW ARE U? \n\nI LOVE YOU SO MUCH! 🙈\n\nMAKE ME FEEL HAPPY AND FOLLOW ME MY QUEEN!  👑\n\n🐻🌹🐻🌹🐻🌹🐻 x84",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2334165482,
+      "id_str": "2334165482",
+      "name": "°×FIND ME NORMANI×°",
+      "screen_name": "DakB29",
+      "location": "",
+      "profile_location": null,
+      "description": "If you show me you don’t give a fuck, I’ll show you that I’m better at it.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 469,
+      "friends_count": 437,
+      "listed_count": 2,
+      "created_at": "Sat Feb 08 22:30:37 +0000 2014",
+      "favourites_count": 3832,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2199,
+      "lang": "es",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "352726",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/473969269521137667/DmY9QQ9L.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/473969269521137667/DmY9QQ9L.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/588854935086837761/YD7GrC87_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/588854935086837761/YD7GrC87_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2334165482/1429152184",
+      "profile_link_color": "4A913C",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "NormaniKordei",
+          "name": "Normani Kordei",
+          "id": 209003577,
+          "id_str": "209003577",
+          "indices": [
+            9,
+            23
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Fri Apr 17 00:31:02 +0000 2015",
+    "id": 588862194625843200,
+    "id_str": "588862194625843200",
+    "text": "Hello @Harry_Styles,\nI hope you're happy\nSmile always and \nkeep your chin up.\nYou're truly amazing\nfollow me please H?\nI Love You xx.39,649",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2572697220,
+      "id_str": "2572697220",
+      "name": "roni",
+      "screen_name": "94storyhes",
+      "location": "one day H.",
+      "profile_location": null,
+      "description": "anchor and rope.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 11366,
+      "friends_count": 3767,
+      "listed_count": 139,
+      "created_at": "Tue Jun 17 11:09:30 +0000 2014",
+      "favourites_count": 16909,
+      "utc_offset": 7200,
+      "time_zone": "Amsterdam",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 68306,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "ABB8C2",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/587587441168482304/1V3cKX4o.jpg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/587587441168482304/1V3cKX4o.jpg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/588432308144766976/vE_C6VpH_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/588432308144766976/vE_C6VpH_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2572697220/1429180239",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Harry_Styles",
+          "name": "Harry Styles.",
+          "id": 181561712,
+          "id_str": "181561712",
+          "indices": [
+            6,
+            19
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }
+]
