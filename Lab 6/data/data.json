@@ -1,0 +1,1337 @@
+[
+  {
+    "metadata": {
+      "iso_language_code": "zh",
+      "result_type": "recent"
+    },
+    "created_at": "Mon Apr 27 03:12:05 +0000 2015",
+    "id": 592526602539442200,
+    "id_str": "592526602539442176",
+    "text": "小狗遭男子数次重摔受伤 市民劝阻无果报警: 　　4月24日，网友“@HELLO薇酱”发布一条微博，并配有6张图片和一段时长30秒的视频。视频中，一男子抄起一只小土狗，重重朝花坛摔去。共摔了4次，每次都扔出去四五米远。虐狗... http://t.co/hMXkm6Qdb0",
+    "source": "<a href=\"http://twitterfeed.com\" rel=\"nofollow\">twitterfeed</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 484712281,
+      "id_str": "484712281",
+      "name": "EA Headlines News",
+      "screen_name": "AsianHeadlines",
+      "location": "East Asia",
+      "profile_location": null,
+      "description": "東アジアのニュースはニュースから中国、日本、韓国トップ ニュース サイトからホット ニュースを読むすべての周りのニュースの主要なオンライン情報源です。",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 639,
+      "friends_count": 201,
+      "listed_count": 21,
+      "created_at": "Mon Feb 06 12:08:31 +0000 2012",
+      "favourites_count": 2,
+      "utc_offset": 3600,
+      "time_zone": "London",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 132764,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/513597160265240576/6Log2Ivo_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/513597160265240576/6Log2Ivo_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/484712281/1411286137",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "hello",
+          "name": "Hello",
+          "id": 26615742,
+          "id_str": "26615742",
+          "indices": [
+            33,
+            39
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/hMXkm6Qdb0",
+          "expanded_url": "http://bit.ly/1PJrK4Z",
+          "display_url": "bit.ly/1PJrK4Z",
+          "indices": [
+            114,
+            136
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Mon Apr 27 03:08:35 +0000 2015",
+    "id": 592525724004712400,
+    "id_str": "592525724004712448",
+    "text": "@Hello iamNicka iamthe princess http://t.co/x5TmlgjL8u",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 26615742,
+    "in_reply_to_user_id_str": "26615742",
+    "in_reply_to_screen_name": "hello",
+    "user": {
+      "id": 3118793334,
+      "id_str": "3118793334",
+      "name": "Nicka",
+      "screen_name": "anickatan",
+      "location": "",
+      "profile_location": null,
+      "description": "Hello there! :)",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 7,
+      "friends_count": 36,
+      "listed_count": 0,
+      "created_at": "Tue Mar 31 00:26:57 +0000 2015",
+      "favourites_count": 185,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 19,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/582757579106828288/SEzzF8GJ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/582757579106828288/SEzzF8GJ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3118793334/1427775180",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "hello",
+          "name": "Hello",
+          "id": 26615742,
+          "id_str": "26615742",
+          "indices": [
+            0,
+            6
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 592525722792529900,
+          "id_str": "592525722792529920",
+          "indices": [
+            32,
+            54
+          ],
+          "media_url": "http://pbs.twimg.com/media/CDkTAWtUkAAggZO.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CDkTAWtUkAAggZO.jpg",
+          "url": "http://t.co/x5TmlgjL8u",
+          "display_url": "pic.twitter.com/x5TmlgjL8u",
+          "expanded_url": "http://twitter.com/anickatan/status/592525724004712448/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 440,
+              "h": 467,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 440,
+              "h": 467,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 360,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "metadata": {
+      "iso_language_code": "zh",
+      "result_type": "recent"
+    },
+    "created_at": "Mon Apr 27 03:03:47 +0000 2015",
+    "id": 592524514312990700,
+    "id_str": "592524514312990721",
+    "text": "#滕彪 小狗遭男子数次重摔受伤 市民劝阻无果报警 - 　　4月24日，网友“@HELLO薇酱”发布一条微博，并配有6张图片和一段时长30秒的视频。视频中，一男子抄起一只小土狗，重重朝花坛摔去。共摔了4次，每次都扔出去四五米远。虐... http://t.co/TVanNyH4jP",
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 611265245,
+      "id_str": "611265245",
+      "name": "heisehe",
+      "screen_name": "heisehe",
+      "location": "",
+      "profile_location": null,
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 273,
+      "friends_count": 245,
+      "listed_count": 8,
+      "created_at": "Mon Jun 18 01:05:09 +0000 2012",
+      "favourites_count": 0,
+      "utc_offset": -36000,
+      "time_zone": "Hawaii",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 309226,
+      "lang": "zh-cn",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+      "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": true,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "滕彪",
+          "indices": [
+            0,
+            3
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "hello",
+          "name": "Hello",
+          "id": 26615742,
+          "id_str": "26615742",
+          "indices": [
+            38,
+            44
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/TVanNyH4jP",
+          "expanded_url": "http://ow.ly/2XU0tE",
+          "display_url": "ow.ly/2XU0tE",
+          "indices": [
+            118,
+            140
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Mon Apr 27 03:01:47 +0000 2015",
+    "id": 592524011315146800,
+    "id_str": "592524011315146754",
+    "text": "130922 lollipop cz cover bigbang @hello! korea by mbk &amp; iteen (audition) http://t.co/Ke3eh35A5M",
+    "source": "<a href=\"http://musicsexy.net/\" rel=\"nofollow\">Musicsexy.net</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2739202014,
+      "id_str": "2739202014",
+      "name": "YouTube info＠相互フォロー",
+      "screen_name": "FreedumG",
+      "location": "",
+      "profile_location": null,
+      "description": "面白いYouTube 素晴らしい音楽を発信中！ I announced cool and funny YouTube videos!!",
+      "url": "http://t.co/PIQHSvKMUr",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/PIQHSvKMUr",
+              "expanded_url": "http://musicsexy.net",
+              "display_url": "musicsexy.net",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 6390,
+      "friends_count": 6380,
+      "listed_count": 40,
+      "created_at": "Sun Aug 17 07:26:06 +0000 2014",
+      "favourites_count": 8,
+      "utc_offset": 32400,
+      "time_zone": "Seoul",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 299944,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/574489026989707264/GhOBG3e-_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/574489026989707264/GhOBG3e-_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2739202014/1425803832",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "hello",
+          "name": "Hello",
+          "id": 26615742,
+          "id_str": "26615742",
+          "indices": [
+            33,
+            39
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/Ke3eh35A5M",
+          "expanded_url": "http://musicsexy.net/feeds/59405",
+          "display_url": "musicsexy.net/feeds/59405",
+          "indices": [
+            77,
+            99
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Mon Apr 27 02:28:14 +0000 2015",
+    "id": 592515566755323900,
+    "id_str": "592515566755323904",
+    "text": "I liked a @YouTube video from @ob1jellopy http://t.co/R3rDssReeD 130922 AMORE' cover Apink - My My + NoNoNo @Hello! Korea by MBK &amp;",
+    "source": "<a href=\"http://www.google.com/\" rel=\"nofollow\">Google</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2852422932,
+      "id_str": "2852422932",
+      "name": "Rip Eunb & RiSe",
+      "screen_name": "Amberhemmings13",
+      "location": "",
+      "profile_location": null,
+      "description": "I love kpopㅋㅋㅋXD, Time traveler for life!:) Words can't explain it3",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 93,
+      "friends_count": 114,
+      "listed_count": 1,
+      "created_at": "Sat Oct 11 23:43:46 +0000 2014",
+      "favourites_count": 357,
+      "utc_offset": -14400,
+      "time_zone": "Georgetown",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 663,
+      "lang": "ko",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/575012131885617152/UQfgvbmT_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/575012131885617152/UQfgvbmT_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2852422932/1425928549",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "YouTube",
+          "name": "YouTube",
+          "id": 10228272,
+          "id_str": "10228272",
+          "indices": [
+            10,
+            18
+          ]
+        },
+        {
+          "screen_name": "ob1jellopy",
+          "name": "OB1Jellopy",
+          "id": 1188396684,
+          "id_str": "1188396684",
+          "indices": [
+            30,
+            41
+          ]
+        },
+        {
+          "screen_name": "hello",
+          "name": "Hello",
+          "id": 26615742,
+          "id_str": "26615742",
+          "indices": [
+            108,
+            114
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/R3rDssReeD",
+          "expanded_url": "http://youtu.be/bTFiAwKbNZE?a",
+          "display_url": "youtu.be/bTFiAwKbNZE?a",
+          "indices": [
+            42,
+            64
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "metadata": {
+      "iso_language_code": "und",
+      "result_type": "recent"
+    },
+    "created_at": "Mon Apr 27 01:58:38 +0000 2015",
+    "id": 592508117595738100,
+    "id_str": "592508117595738113",
+    "text": "@AmirahAdaraxxx.@hello",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M2)</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2294316349,
+    "in_reply_to_user_id_str": "2294316349",
+    "in_reply_to_screen_name": "AmirahAdaraxxx",
+    "user": {
+      "id": 3168091946,
+      "id_str": "3168091946",
+      "name": "Honey Bhai",
+      "screen_name": "bhai_honey",
+      "location": "india",
+      "profile_location": null,
+      "description": "I am very bad",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1,
+      "friends_count": 6,
+      "listed_count": 0,
+      "created_at": "Thu Apr 23 01:35:54 +0000 2015",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 3,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_5_normal.png",
+      "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_5_normal.png",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": true,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "AmirahAdaraxxx",
+          "name": "Amirah Adara",
+          "id": 2294316349,
+          "id_str": "2294316349",
+          "indices": [
+            0,
+            15
+          ]
+        },
+        {
+          "screen_name": "hello",
+          "name": "Hello",
+          "id": 26615742,
+          "id_str": "26615742",
+          "indices": [
+            16,
+            22
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "und"
+  },
+  {
+    "metadata": {
+      "iso_language_code": "in",
+      "result_type": "recent"
+    },
+    "created_at": "Mon Apr 27 01:16:33 +0000 2015",
+    "id": 592497529306021900,
+    "id_str": "592497529306021888",
+    "text": "@bramastaverrell @hello kk sapa donk? kalo liat tampang kk org nya sombong yuk kita buktiin di sapa enggak hee..",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M2)</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 592495990004785200,
+    "in_reply_to_status_id_str": "592495990004785152",
+    "in_reply_to_user_id": 1946071206,
+    "in_reply_to_user_id_str": "1946071206",
+    "in_reply_to_screen_name": "BramastaVerrell",
+    "user": {
+      "id": 2930389915,
+      "id_str": "2930389915",
+      "name": "AN_DIN_Ners",
+      "screen_name": "neliyuliana2",
+      "location": "Palembang#Bali",
+      "profile_location": null,
+      "description": "name:nely zafarah kharlo khasya# ayah:jamil kharlo khasyafany #ibu saani kharlo khasya f.( Jangan Buang waktu mu)",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 47,
+      "friends_count": 143,
+      "listed_count": 0,
+      "created_at": "Mon Dec 15 01:45:31 +0000 2014",
+      "favourites_count": 39,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 268,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/556071574869000192/SRFKoq56_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/556071574869000192/SRFKoq56_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2930389915/1422193760",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "BramastaVerrell",
+          "name": "Verrell Bramasta",
+          "id": 1946071206,
+          "id_str": "1946071206",
+          "indices": [
+            0,
+            16
+          ]
+        },
+        {
+          "screen_name": "hello",
+          "name": "Hello",
+          "id": 26615742,
+          "id_str": "26615742",
+          "indices": [
+            17,
+            23
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "in"
+  },
+  {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Mon Apr 27 01:14:20 +0000 2015",
+    "id": 592496969693683700,
+    "id_str": "592496969693683712",
+    "text": "Hey @hello , love your design and packaging for sense. http://t.co/mgl6OBq4vd",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 4381041,
+      "id_str": "4381041",
+      "name": "Eric Thompson",
+      "screen_name": "Cyanbane",
+      "location": "Atlanta",
+      "profile_location": null,
+      "description": "1s and 0s, Brewer, Le Mans watcher, Dawg Grad, Gamer, Semi-decent tweet producer.  All views my own.",
+      "url": "http://t.co/22HCiDXZrd",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/22HCiDXZrd",
+              "expanded_url": "http://www.cyanbane.com",
+              "display_url": "cyanbane.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 325,
+      "friends_count": 345,
+      "listed_count": 21,
+      "created_at": "Thu Apr 12 17:15:00 +0000 2007",
+      "favourites_count": 2167,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 9758,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/527280011418415104/HHz0yAqr_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/527280011418415104/HHz0yAqr_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/4381041/1410714575",
+      "profile_link_color": "292975",
+      "profile_sidebar_border_color": "87BC44",
+      "profile_sidebar_fill_color": "E0FF92",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "hello",
+          "name": "Hello",
+          "id": 26615742,
+          "id_str": "26615742",
+          "indices": [
+            4,
+            10
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 592496966585712600,
+          "id_str": "592496966585712640",
+          "indices": [
+            55,
+            77
+          ],
+          "media_url": "http://pbs.twimg.com/media/CDj42hfWgAAwKFa.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CDj42hfWgAAwKFa.jpg",
+          "url": "http://t.co/mgl6OBq4vd",
+          "display_url": "pic.twitter.com/mgl6OBq4vd",
+          "expanded_url": "http://twitter.com/Cyanbane/status/592496969693683712/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 255,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 450,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "metadata": {
+      "iso_language_code": "zh",
+      "result_type": "recent"
+    },
+    "created_at": "Mon Apr 27 01:13:53 +0000 2015",
+    "id": 592496856585936900,
+    "id_str": "592496856585936900",
+    "text": "虐狗者惹怒网友被谴责 律师：目前我国反虐待动物法仍是空白 4月24日，网友“@HELLO薇酱”发布一条微博，并配有6张图片和一段时长30秒的视频。视频中，一男子抄起一只小土狗，重重朝… http://t.co/UYE40bj9eB",
+    "source": "<a href=\"http://www.google.com/\" rel=\"nofollow\">Google</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 263553222,
+      "id_str": "263553222",
+      "name": "laiyong",
+      "screen_name": "laiyong1",
+      "location": "",
+      "profile_location": null,
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 175,
+      "friends_count": 18,
+      "listed_count": 4,
+      "created_at": "Thu Mar 10 07:53:26 +0000 2011",
+      "favourites_count": 1,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 67099,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_2_normal.png",
+      "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_2_normal.png",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": true,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "hello",
+          "name": "Hello",
+          "id": 26615742,
+          "id_str": "26615742",
+          "indices": [
+            38,
+            44
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/UYE40bj9eB",
+          "expanded_url": "http://goo.gl/fb/I0YUae",
+          "display_url": "goo.gl/fb/I0YUae",
+          "indices": [
+            93,
+            115
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "metadata": {
+      "iso_language_code": "zh",
+      "result_type": "recent"
+    },
+    "created_at": "Mon Apr 27 01:03:33 +0000 2015",
+    "id": 592494257774137300,
+    "id_str": "592494257774137344",
+    "text": "#江天勇 [社会]小狗遭男子4次重摔受伤 因不愿跟主人回家(图)(04/27 08:08) - 　　虐狗者惹怒网友被谴责 律师：目前我国反虐待动物法仍是空白 　　4月24日，网友“@HELLO薇酱”发布一条微博，并配有6张图片和... http://t.co/wjkpGqva4m",
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 611265245,
+      "id_str": "611265245",
+      "name": "heisehe",
+      "screen_name": "heisehe",
+      "location": "",
+      "profile_location": null,
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 273,
+      "friends_count": 245,
+      "listed_count": 8,
+      "created_at": "Mon Jun 18 01:05:09 +0000 2012",
+      "favourites_count": 0,
+      "utc_offset": -36000,
+      "time_zone": "Hawaii",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 309226,
+      "lang": "zh-cn",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+      "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": true,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "江天勇",
+          "indices": [
+            0,
+            4
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "hello",
+          "name": "Hello",
+          "id": 26615742,
+          "id_str": "26615742",
+          "indices": [
+            90,
+            96
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/wjkpGqva4m",
+          "expanded_url": "http://ow.ly/2XTPTp",
+          "display_url": "ow.ly/2XTPTp",
+          "indices": [
+            118,
+            140
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "metadata": {
+      "iso_language_code": "zh",
+      "result_type": "recent"
+    },
+    "created_at": "Mon Apr 27 01:01:16 +0000 2015",
+    "id": 592493682735079400,
+    "id_str": "592493682735079425",
+    "text": "事件 [社会]小狗遭男子4次重摔受伤 因不愿跟主人回家(图)(04/27 08:08) - 　　虐狗者惹怒网友被谴责 律师：目前我国反虐待动物法仍是空白 　　4月24日，网友“@HELLO薇酱”发布一条微博，并配有6张图片和一段... http://t.co/XR4GGqVF92",
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 576941803,
+      "id_str": "576941803",
+      "name": "大事件 热XX门 热点新闻Hot New",
+      "screen_name": "vvvle",
+      "location": "",
+      "profile_location": null,
+      "description": "大事件  热XX门  热点新闻 Hot News",
+      "url": "https://t.co/FtMy5sFSiH",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/FtMy5sFSiH",
+              "expanded_url": "https://twitter.com/vvvle",
+              "display_url": "twitter.com/vvvle",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1710,
+      "friends_count": 244,
+      "listed_count": 19,
+      "created_at": "Fri May 11 07:43:27 +0000 2012",
+      "favourites_count": 28,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 52619,
+      "lang": "zh-cn",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2473074030/e66ppbryodxywtgh3099_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2473074030/e66ppbryodxywtgh3099_normal.jpeg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "hello",
+          "name": "Hello",
+          "id": 26615742,
+          "id_str": "26615742",
+          "indices": [
+            88,
+            94
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/XR4GGqVF92",
+          "expanded_url": "http://ow.ly/2XTNVf",
+          "display_url": "ow.ly/2XTNVf",
+          "indices": [
+            118,
+            140
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "metadata": {
+      "iso_language_code": "und",
+      "result_type": "recent"
+    },
+    "created_at": "Mon Apr 27 00:30:22 +0000 2015",
+    "id": 592485904901480400,
+    "id_str": "592485904901480448",
+    "text": "@SellaFitriah @hello",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 592485452856229900,
+    "in_reply_to_status_id_str": "592485452856229888",
+    "in_reply_to_user_id": 2756884970,
+    "in_reply_to_user_id_str": "2756884970",
+    "in_reply_to_screen_name": "SellaFitriah",
+    "user": {
+      "id": 3140588040,
+      "id_str": "3140588040",
+      "name": "PA DHE",
+      "screen_name": "marsudinanang2",
+      "location": "",
+      "profile_location": null,
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 19,
+      "friends_count": 212,
+      "listed_count": 0,
+      "created_at": "Sun Apr 05 18:38:31 +0000 2015",
+      "favourites_count": 8,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 309,
+      "lang": "id",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/584787813528248320/0_Xf4Xeu_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/584787813528248320/0_Xf4Xeu_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3140588040/1429159007",
+      "profile_link_color": "3B94D9",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "SellaFitriah",
+          "name": "Sella Fitriah",
+          "id": 2756884970,
+          "id_str": "2756884970",
+          "indices": [
+            0,
+            13
+          ]
+        },
+        {
+          "screen_name": "hello",
+          "name": "Hello",
+          "id": 26615742,
+          "id_str": "26615742",
+          "indices": [
+            14,
+            20
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "und"
+  }
+]

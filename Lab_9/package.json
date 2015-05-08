@@ -1,0 +1,22 @@
+{
+  "name": "Lab_5",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "chart.js": "^1.0.2",
+    "express": "~4.2.0",
+    "fs": "latest",
+    "jsonfile": "latest",
+    "react": "^0.13.2",
+    "react-chartjs": "^0.6.0",
+    "swig": "latest",
+    "twit": "^1.1.18"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.2.x"
+  }
+}

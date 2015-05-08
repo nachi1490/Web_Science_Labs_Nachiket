@@ -1,0 +1,3392 @@
+[
+  {
+    "_id": "5541972e17d0023016c728d1",
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Thu Apr 30 02:44:31 +0000 2015",
+    "id": 593606831219474400,
+    "id_str": "593606831219474432",
+    "text": "@ReviewFix Hello, you're featured on #theneeds #PCGames http://t.co/ekplsabah3 RT for more votes!",
+    "source": "<a href=\"http://www.theneeds.com\" rel=\"nofollow\">theneeds_play</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 593606574477877200,
+    "in_reply_to_status_id_str": "593606574477877248",
+    "in_reply_to_user_id": 43370229,
+    "in_reply_to_user_id_str": "43370229",
+    "in_reply_to_screen_name": "ReviewFix",
+    "user": {
+      "id": 2329321668,
+      "id_str": "2329321668",
+      "name": "Theneeds PCGames",
+      "screen_name": "tn_PCGames",
+      "location": "San Francisco",
+      "profile_location": null,
+      "description": "The best #Gaming portal on the web, everything #PCGames in one place, with people like you. http://t.co/CZtwPZwDuC!",
+      "url": "http://t.co/CZtwPZwDuC",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "indices": [
+                0,
+                22
+              ],
+              "display_url": "theneeds.com",
+              "expanded_url": "http://www.theneeds.com",
+              "url": "http://t.co/CZtwPZwDuC"
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "indices": [
+                92,
+                114
+              ],
+              "display_url": "theneeds.com",
+              "expanded_url": "http://www.theneeds.com",
+              "url": "http://t.co/CZtwPZwDuC"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 2171,
+      "friends_count": 7,
+      "listed_count": 17,
+      "created_at": "Wed Feb 05 20:34:54 +0000 2014",
+      "favourites_count": 9925,
+      "utc_offset": -25200,
+      "time_zone": "Arizona",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 7630,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/476785593297272833/mP2sYUKz_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/476785593297272833/mP2sYUKz_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2329321668/1402509586",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            37,
+            46
+          ],
+          "text": "theneeds"
+        },
+        {
+          "indices": [
+            47,
+            55
+          ],
+          "text": "PCGames"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            10
+          ],
+          "id_str": "43370229",
+          "id": 43370229,
+          "name": "Patrick Hickey Jr.",
+          "screen_name": "ReviewFix"
+        }
+      ],
+      "urls": [
+        {
+          "indices": [
+            56,
+            78
+          ],
+          "display_url": "theneeds.com/game/s5533158/…",
+          "expanded_url": "http://www.theneeds.com/game/s5533158/tough-decision-videogames?utm_source=twitter&utm_tweet=593606574477877248&utm_medium=social&utm_campaign=games&utm_content=hot1303_games",
+          "url": "http://t.co/ekplsabah3"
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "_id": "5541972e17d0023016c728d2",
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Thu Apr 30 02:44:31 +0000 2015",
+    "id": 593606831118819300,
+    "id_str": "593606831118819330",
+    "text": "Hello @syalbilaaa follow me yes, i've got limit to follow you. as soon i'll Follow You Back. Thank You ;)",
+    "source": "<a href=\"https://twitter.com/veronicawrlta\" rel=\"nofollow\">Twitter For Veronica</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2175008005,
+      "id_str": "2175008005",
+      "name": "VERONICA",
+      "screen_name": "veronicawrlta",
+      "location": "Jakarta Lovely City",
+      "profile_location": null,
+      "description": "Call Me Veronica | Single | Party Girls | Brand Ambassador | Entrepreneur |",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 9385,
+      "friends_count": 7954,
+      "listed_count": 255,
+      "created_at": "Tue Nov 05 00:18:16 +0000 2013",
+      "favourites_count": 0,
+      "utc_offset": 25200,
+      "time_zone": "Bangkok",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 232662,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000170101992/Aaipvld8.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000170101992/Aaipvld8.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/440838577618829313/1LR2ydZo_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/440838577618829313/1LR2ydZo_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2175008005/1390011152",
+      "profile_link_color": "000000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            6,
+            17
+          ],
+          "id_str": "2336622732",
+          "id": 2336622732,
+          "name": "syania",
+          "screen_name": "syalbilaaa"
+        }
+      ],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "_id": "5541972e17d0023016c728d3",
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Thu Apr 30 02:44:31 +0000 2015",
+    "id": 593606830716125200,
+    "id_str": "593606830716125185",
+    "text": "RT @like: executed my first command on python: print \"hello world\" !",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 385947091,
+      "id_str": "385947091",
+      "name": "JACK_SUPAKORN",
+      "screen_name": "JackSupakorn",
+      "location": "United States",
+      "profile_location": null,
+      "description": "http://t.co/KCdo7FUHNN  Share this to get more smiles back : )\nhttps://t.co/Dpyyj8DOq3",
+      "url": "http://t.co/KCdo7FUHNN",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "indices": [
+                0,
+                22
+              ],
+              "display_url": "elieoops.com",
+              "expanded_url": "http://elieoops.com",
+              "url": "http://t.co/KCdo7FUHNN"
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "indices": [
+                0,
+                22
+              ],
+              "display_url": "elieoops.com",
+              "expanded_url": "http://elieoops.com",
+              "url": "http://t.co/KCdo7FUHNN"
+            },
+            {
+              "indices": [
+                63,
+                86
+              ],
+              "display_url": "youtube.com/watch?v=gxBx4b…",
+              "expanded_url": "https://www.youtube.com/watch?v=gxBx4bKm7_M",
+              "url": "https://t.co/Dpyyj8DOq3"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 156,
+      "friends_count": 168,
+      "listed_count": 1,
+      "created_at": "Thu Oct 06 12:20:36 +0000 2011",
+      "favourites_count": 1435,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2220,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "B2DFDA",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/584936530906488834/nC9b4CTj_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/584936530906488834/nC9b4CTj_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/385947091/1428294932",
+      "profile_link_color": "93A644",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Sat Aug 13 05:44:37 +0000 2011",
+      "id": 102254206752272380,
+      "id_str": "102254206752272384",
+      "text": "executed my first command on python: print \"hello world\" !",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 43893427,
+        "id_str": "43893427",
+        "name": "aileen sim",
+        "screen_name": "like",
+        "location": "San Francisco / Singapore",
+        "profile_location": null,
+        "description": "Restless (possibly ADD) singaporean startup-er. Building awesome products at @GlowHQ.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1092,
+        "friends_count": 85,
+        "listed_count": 44,
+        "created_at": "Mon Jun 01 14:31:59 +0000 2009",
+        "favourites_count": 29,
+        "utc_offset": 28800,
+        "time_zone": "Singapore",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1620,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "EDECE9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/573781299/3036_640029428737_621880_37448399_7504553_n_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/573781299/3036_640029428737_621880_37448399_7504553_n_normal.jpg",
+        "profile_link_color": "088253",
+        "profile_sidebar_border_color": "D3D2CF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 2,
+      "favorite_count": 3,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            8
+          ],
+          "id_str": "43893427",
+          "id": 43893427,
+          "name": "aileen sim",
+          "screen_name": "like"
+        }
+      ],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "_id": "5541972e17d0023016c728d4",
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Thu Apr 30 02:44:31 +0000 2015",
+    "id": 593606830582059000,
+    "id_str": "593606830582059008",
+    "text": "RT @Amber_Skies_: Your love is a hello to my heart.",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1890940244,
+      "id_str": "1890940244",
+      "name": "SexxxiSarcasmic",
+      "screen_name": "LipLush1",
+      "location": "",
+      "profile_location": null,
+      "description": "Italian princess livin the dream ~~~~~ ~~~~~~~~Goin to Canada in my mind http://t.co/0kPQEv4I7K",
+      "url": "http://t.co/Irpf9TTmvy",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "indices": [
+                0,
+                22
+              ],
+              "display_url": "favstar.fm/users/LipLush1",
+              "expanded_url": "http://favstar.fm/users/LipLush1",
+              "url": "http://t.co/Irpf9TTmvy"
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "indices": [
+                73,
+                95
+              ],
+              "display_url": "twitter.com/search/from:Li…",
+              "expanded_url": "http://twitter.com/search/from:LipLush1",
+              "url": "http://t.co/0kPQEv4I7K"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 12644,
+      "friends_count": 3685,
+      "listed_count": 466,
+      "created_at": "Sat Sep 21 17:53:19 +0000 2013",
+      "favourites_count": 158972,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 70944,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/587513406120448001/DNw2LtAs_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/587513406120448001/DNw2LtAs_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1890940244/1428910222",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Mon Apr 27 20:56:09 +0000 2015",
+      "id": 592794386272022500,
+      "id_str": "592794386272022528",
+      "text": "Your love is a hello to my heart.",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2704779944,
+        "id_str": "2704779944",
+        "name": "AmberSkies",
+        "screen_name": "Amber_Skies_",
+        "location": "",
+        "profile_location": null,
+        "description": "Spilling my random thoughts about Always Around, he stole my heart but better not steal my wine. \r\nNo Dm's Please.",
+        "url": "http://t.co/7Ip9nau1PT",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "indices": [
+                  0,
+                  22
+                ],
+                "display_url": "favstar.fm/users/Amber_Sk…",
+                "expanded_url": "http://favstar.fm/users/Amber_Skies_",
+                "url": "http://t.co/7Ip9nau1PT"
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 8541,
+        "friends_count": 7204,
+        "listed_count": 147,
+        "created_at": "Sun Aug 03 19:48:56 +0000 2014",
+        "favourites_count": 30030,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 18815,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/525267698788229120/wGCfX0AI_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/525267698788229120/wGCfX0AI_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2704779944/1424353210",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 36,
+      "favorite_count": 54,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "retweet_count": 36,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "2704779944",
+          "id": 2704779944,
+          "name": "AmberSkies",
+          "screen_name": "Amber_Skies_"
+        }
+      ],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "_id": "5541972e17d0023016c728d5",
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Thu Apr 30 02:44:31 +0000 2015",
+    "id": 593606830179266600,
+    "id_str": "593606830179266560",
+    "text": "Hello @Syad22Feb follow me yes, i've got limit to follow you. as soon i'll Follow You Back. Thank You ;)",
+    "source": "<a href=\"https://twitter.com/veronicawrlta\" rel=\"nofollow\">Twitter For Veronica</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2175008005,
+      "id_str": "2175008005",
+      "name": "VERONICA",
+      "screen_name": "veronicawrlta",
+      "location": "Jakarta Lovely City",
+      "profile_location": null,
+      "description": "Call Me Veronica | Single | Party Girls | Brand Ambassador | Entrepreneur |",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 9385,
+      "friends_count": 7954,
+      "listed_count": 255,
+      "created_at": "Tue Nov 05 00:18:16 +0000 2013",
+      "favourites_count": 0,
+      "utc_offset": 25200,
+      "time_zone": "Bangkok",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 232662,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000170101992/Aaipvld8.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000170101992/Aaipvld8.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/440838577618829313/1LR2ydZo_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/440838577618829313/1LR2ydZo_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2175008005/1390011152",
+      "profile_link_color": "000000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            6,
+            16
+          ],
+          "id_str": "90676194",
+          "id": 90676194,
+          "name": "Azhar Irsyad Hasan",
+          "screen_name": "Syad22Feb"
+        }
+      ],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "_id": "5541972e17d0023016c728d6",
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Thu Apr 30 02:44:31 +0000 2015",
+    "id": 593606829281824800,
+    "id_str": "593606829281824769",
+    "text": "Hello Harry, These T-shirt  &amp; Hoodie are named by you! Get it now! http://t.co/59rDRIIJH4 @typicalhxrry http://t.co/LcPVL3WH9H",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3155595918,
+      "id_str": "3155595918",
+      "name": "Preston Langman",
+      "screen_name": "prestonlan560",
+      "location": "",
+      "profile_location": null,
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1,
+      "friends_count": 0,
+      "listed_count": 0,
+      "created_at": "Tue Apr 14 10:18:43 +0000 2015",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 747,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/588184947472465920/jUqKMKVD_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/588184947472465920/jUqKMKVD_normal.png",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            94,
+            107
+          ],
+          "id_str": "1481193908",
+          "id": 1481193908,
+          "name": ":)",
+          "screen_name": "typicalhxrry"
+        }
+      ],
+      "urls": [
+        {
+          "indices": [
+            71,
+            93
+          ],
+          "display_url": "goo.gl/a5AU3k",
+          "expanded_url": "http://goo.gl/a5AU3k",
+          "url": "http://t.co/59rDRIIJH4"
+        }
+      ],
+      "media": [
+        {
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "h": 600,
+              "w": 600
+            },
+            "large": {
+              "resize": "fit",
+              "h": 1010,
+              "w": 1010
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "small": {
+              "resize": "fit",
+              "h": 340,
+              "w": 340
+            }
+          },
+          "type": "photo",
+          "expanded_url": "http://twitter.com/prestonlan560/status/593606829281824769/photo/1",
+          "display_url": "pic.twitter.com/LcPVL3WH9H",
+          "url": "http://t.co/LcPVL3WH9H",
+          "media_url_https": "https://pbs.twimg.com/media/CDzqRB_W8AEXdiF.jpg",
+          "media_url": "http://pbs.twimg.com/media/CDzqRB_W8AEXdiF.jpg",
+          "indices": [
+            108,
+            130
+          ],
+          "id_str": "593606829218918401",
+          "id": 593606829218918400
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "_id": "5541972e17d0023016c728d7",
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Thu Apr 30 02:44:31 +0000 2015",
+    "id": 593606829122265100,
+    "id_str": "593606829122265088",
+    "text": "Hello @LiaAmalia67 follow me yes, i've got limit to follow you. as soon i'll Follow You Back. Thank You ;)",
+    "source": "<a href=\"https://twitter.com/veronicawrlta\" rel=\"nofollow\">Twitter For Veronica</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2175008005,
+      "id_str": "2175008005",
+      "name": "VERONICA",
+      "screen_name": "veronicawrlta",
+      "location": "Jakarta Lovely City",
+      "profile_location": null,
+      "description": "Call Me Veronica | Single | Party Girls | Brand Ambassador | Entrepreneur |",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 9385,
+      "friends_count": 7954,
+      "listed_count": 255,
+      "created_at": "Tue Nov 05 00:18:16 +0000 2013",
+      "favourites_count": 0,
+      "utc_offset": 25200,
+      "time_zone": "Bangkok",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 232662,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000170101992/Aaipvld8.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000170101992/Aaipvld8.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/440838577618829313/1LR2ydZo_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/440838577618829313/1LR2ydZo_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2175008005/1390011152",
+      "profile_link_color": "000000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            6,
+            18
+          ],
+          "id_str": "60927652",
+          "id": 60927652,
+          "name": "LiaAmalia67",
+          "screen_name": "LiaAmalia67"
+        }
+      ],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "_id": "5541972e17d0023016c728d8",
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Thu Apr 30 02:44:31 +0000 2015",
+    "id": 593606828388298800,
+    "id_str": "593606828388298752",
+    "text": "@yuramikku hello there! i'm zin",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 593255504668856300,
+    "in_reply_to_status_id_str": "593255504668856323",
+    "in_reply_to_user_id": 3098088649,
+    "in_reply_to_user_id_str": "3098088649",
+    "in_reply_to_screen_name": "yuramikku",
+    "user": {
+      "id": 1283416964,
+      "id_str": "1283416964",
+      "name": "zin⠀",
+      "screen_name": "crepuscuIe",
+      "location": "",
+      "profile_location": null,
+      "description": "fl. [ fc : jung jinyoung ]",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 22,
+      "friends_count": 21,
+      "listed_count": 0,
+      "created_at": "Wed Mar 20 14:30:46 +0000 2013",
+      "favourites_count": 4,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 145,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/593017742447382530/rc20glUu_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/593017742447382530/rc20glUu_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1283416964/1430238736",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            10
+          ],
+          "id_str": "3098088649",
+          "id": 3098088649,
+          "name": "yura  ♡        ",
+          "screen_name": "yuramikku"
+        }
+      ],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "_id": "5541972e17d0023016c728d9",
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Thu Apr 30 02:44:31 +0000 2015",
+    "id": 593606828224720900,
+    "id_str": "593606828224720896",
+    "text": "Hello @caturferdaniel follow me yes, i've got limit to follow you. as soon i'll Follow You Back. Thank You ;)",
+    "source": "<a href=\"https://twitter.com/veronicawrlta\" rel=\"nofollow\">Twitter For Veronica</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2175008005,
+      "id_str": "2175008005",
+      "name": "VERONICA",
+      "screen_name": "veronicawrlta",
+      "location": "Jakarta Lovely City",
+      "profile_location": null,
+      "description": "Call Me Veronica | Single | Party Girls | Brand Ambassador | Entrepreneur |",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 9385,
+      "friends_count": 7954,
+      "listed_count": 255,
+      "created_at": "Tue Nov 05 00:18:16 +0000 2013",
+      "favourites_count": 0,
+      "utc_offset": 25200,
+      "time_zone": "Bangkok",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 232662,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000170101992/Aaipvld8.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000170101992/Aaipvld8.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/440838577618829313/1LR2ydZo_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/440838577618829313/1LR2ydZo_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2175008005/1390011152",
+      "profile_link_color": "000000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            6,
+            21
+          ],
+          "id_str": "115353132",
+          "id": 115353132,
+          "name": "catur ferdaniel",
+          "screen_name": "caturferdaniel"
+        }
+      ],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "_id": "5541972e17d0023016c728da",
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Thu Apr 30 02:44:31 +0000 2015",
+    "id": 593606827444547600,
+    "id_str": "593606827444547587",
+    "text": "This just in: @hello_thenes eats sushi hella weird. That is all.",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 265765693,
+      "id_str": "265765693",
+      "name": "Sleepy Baldwin",
+      "screen_name": "teatsqueezery",
+      "location": "The Bay Area, CA ",
+      "profile_location": null,
+      "description": "Lorde taught me how to dance.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 40,
+      "friends_count": 60,
+      "listed_count": 2,
+      "created_at": "Mon Mar 14 03:25:46 +0000 2011",
+      "favourites_count": 39,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 230,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1523309430/image_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1523309430/image_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/265765693/1389130881",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            14,
+            27
+          ],
+          "id_str": "1622255660",
+          "id": 1622255660,
+          "name": "Athena Chan",
+          "screen_name": "hello_thenes"
+        }
+      ],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "_id": "5541972e17d0023016c728db",
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Thu Apr 30 02:44:30 +0000 2015",
+    "id": 593606827230634000,
+    "id_str": "593606827230633985",
+    "text": "Hello @anoeaink18 follow me yes, i've got limit to follow you. as soon i'll Follow You Back. Thank You ;)",
+    "source": "<a href=\"https://twitter.com/veronicawrlta\" rel=\"nofollow\">Twitter For Veronica</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2175008005,
+      "id_str": "2175008005",
+      "name": "VERONICA",
+      "screen_name": "veronicawrlta",
+      "location": "Jakarta Lovely City",
+      "profile_location": null,
+      "description": "Call Me Veronica | Single | Party Girls | Brand Ambassador | Entrepreneur |",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 9385,
+      "friends_count": 7954,
+      "listed_count": 255,
+      "created_at": "Tue Nov 05 00:18:16 +0000 2013",
+      "favourites_count": 0,
+      "utc_offset": 25200,
+      "time_zone": "Bangkok",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 232662,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000170101992/Aaipvld8.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000170101992/Aaipvld8.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/440838577618829313/1LR2ydZo_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/440838577618829313/1LR2ydZo_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2175008005/1390011152",
+      "profile_link_color": "000000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            6,
+            17
+          ],
+          "id_str": "341938035",
+          "id": 341938035,
+          "name": "anoeaink18",
+          "screen_name": "anoeaink18"
+        }
+      ],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "_id": "5541972e17d0023016c728dc",
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Thu Apr 30 02:44:30 +0000 2015",
+    "id": 593606826383380500,
+    "id_str": "593606826383380480",
+    "text": "Hello @dionadelin follow me yes, i've got limit to follow you. as soon i'll Follow You Back. Thank You ;)",
+    "source": "<a href=\"https://twitter.com/veronicawrlta\" rel=\"nofollow\">Twitter For Veronica</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2175008005,
+      "id_str": "2175008005",
+      "name": "VERONICA",
+      "screen_name": "veronicawrlta",
+      "location": "Jakarta Lovely City",
+      "profile_location": null,
+      "description": "Call Me Veronica | Single | Party Girls | Brand Ambassador | Entrepreneur |",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 9385,
+      "friends_count": 7954,
+      "listed_count": 255,
+      "created_at": "Tue Nov 05 00:18:16 +0000 2013",
+      "favourites_count": 0,
+      "utc_offset": 25200,
+      "time_zone": "Bangkok",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 232662,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000170101992/Aaipvld8.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000170101992/Aaipvld8.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/440838577618829313/1LR2ydZo_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/440838577618829313/1LR2ydZo_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2175008005/1390011152",
+      "profile_link_color": "000000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            6,
+            17
+          ],
+          "id_str": "201205698",
+          "id": 201205698,
+          "name": "Dionita Adelin",
+          "screen_name": "dionadelin"
+        }
+      ],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "_id": "5541972e17d0023016c728dd",
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Thu Apr 30 02:44:30 +0000 2015",
+    "id": 593606826186264600,
+    "id_str": "593606826186264576",
+    "text": "Hello Zach, These T-Shirtz and Hoodies are named by you! Get it now! http://t.co/KMUZQkGSuk @BackwardHex http://t.co/2CX7hNUBWP",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3165930743,
+      "id_str": "3165930743",
+      "name": "Pat Orrock",
+      "screen_name": "patorrock474",
+      "location": "",
+      "profile_location": null,
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1,
+      "friends_count": 0,
+      "listed_count": 0,
+      "created_at": "Tue Apr 14 11:00:26 +0000 2015",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 196,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/588249297730191360/nRqxEt4y_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/588249297730191360/nRqxEt4y_normal.png",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "indices": [
+            69,
+            91
+          ],
+          "display_url": "goo.gl/Nfbm7c",
+          "expanded_url": "http://goo.gl/Nfbm7c",
+          "url": "http://t.co/KMUZQkGSuk"
+        }
+      ],
+      "media": [
+        {
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "h": 600,
+              "w": 600
+            },
+            "large": {
+              "resize": "fit",
+              "h": 1010,
+              "w": 1010
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "small": {
+              "resize": "fit",
+              "h": 340,
+              "w": 340
+            }
+          },
+          "type": "photo",
+          "expanded_url": "http://twitter.com/patorrock474/status/593606826186264576/photo/1",
+          "display_url": "pic.twitter.com/2CX7hNUBWP",
+          "url": "http://t.co/2CX7hNUBWP",
+          "media_url_https": "https://pbs.twimg.com/media/CDzqQ2ZUUAAsBGh.jpg",
+          "media_url": "http://pbs.twimg.com/media/CDzqQ2ZUUAAsBGh.jpg",
+          "indices": [
+            105,
+            127
+          ],
+          "id_str": "593606826106572800",
+          "id": 593606826106572800
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "_id": "5541972e17d0023016c728de",
+    "metadata": {
+      "iso_language_code": "ja",
+      "result_type": "recent"
+    },
+    "created_at": "Thu Apr 30 02:44:30 +0000 2015",
+    "id": 593606825758490600,
+    "id_str": "593606825758490625",
+    "text": "休み時間だよ！！！！！！！クソ暇！！！！！！！",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1319972232,
+      "id_str": "1319972232",
+      "name": "桜音@画力上げたい",
+      "screen_name": "hello_jump",
+      "location": "夢の国（二次元）",
+      "profile_location": null,
+      "description": "しょーたん(蒼井翔太)同盟No.26! 夢でも腐でも大丈夫なやつ。アイコンは自分で撮った。お絵描きしながら過ごしてます。フォローの際はツイプロ必読でお願いします！ 相互希望の場合はリプ下さい！",
+      "url": "http://t.co/2XVl3oVboA",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "indices": [
+                0,
+                22
+              ],
+              "display_url": "twpf.jp/hello_jump",
+              "expanded_url": "http://twpf.jp/hello_jump",
+              "url": "http://t.co/2XVl3oVboA"
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 985,
+      "friends_count": 289,
+      "listed_count": 17,
+      "created_at": "Mon Apr 01 09:26:55 +0000 2013",
+      "favourites_count": 9297,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 45420,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/593319081387761664/7REOik2S_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/593319081387761664/7REOik2S_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1319972232/1426518875",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "_id": "5541972e17d0023016c728e4",
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Thu Apr 30 02:44:29 +0000 2015",
+    "id": 593606822436700200,
+    "id_str": "593606822436700160",
+    "text": "Hello this is TEMS MobileInsight, the time is 2015-04-30 04:44:28",
+    "source": "<a href=\"http://temsmobileinsight.com/download\" rel=\"nofollow\">TEMS MobileInsight</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3027907401,
+      "id_str": "3027907401",
+      "name": "TMI Test",
+      "screen_name": "TMITest",
+      "location": "",
+      "profile_location": null,
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 0,
+      "friends_count": 6,
+      "listed_count": 0,
+      "created_at": "Tue Feb 10 10:34:26 +0000 2015",
+      "favourites_count": 0,
+      "utc_offset": 7200,
+      "time_zone": "Pretoria",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1592,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/577437486432985088/A9AT0-3N_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/577437486432985088/A9AT0-3N_normal.png",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "_id": "5541972e17d0023016c728df",
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Thu Apr 30 02:44:30 +0000 2015",
+    "id": 593606825565524000,
+    "id_str": "593606825565523968",
+    "text": "RT @RucioDonk: Hello @ArcticSkyWolf, this is donkey. http://t.co/6yclmUQiBy",
+    "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 327259876,
+      "id_str": "327259876",
+      "name": "Sake!Beefcake!",
+      "screen_name": "Akitadoggers",
+      "location": "San Jose, CA",
+      "profile_location": null,
+      "description": "I'm an Akita/Samoyed/Collie/Husky/bull thingy...whatever I decide to be for that day... :) I do not follow after dark accounts!!!",
+      "url": "http://t.co/Mgo6EBQLdZ",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "indices": [
+                0,
+                22
+              ],
+              "display_url": "furaffinity.net/user/sakeakita/",
+              "expanded_url": "http://www.furaffinity.net/user/sakeakita/",
+              "url": "http://t.co/Mgo6EBQLdZ"
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 436,
+      "friends_count": 421,
+      "listed_count": 2,
+      "created_at": "Fri Jul 01 08:01:29 +0000 2011",
+      "favourites_count": 599,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 7685,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/472140429287116801/2SQTGDNg.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/472140429287116801/2SQTGDNg.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2726871564/89e3c0f89de527eaf1f833dd19b68f1d_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2726871564/89e3c0f89de527eaf1f833dd19b68f1d_normal.jpeg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Thu Apr 30 02:43:18 +0000 2015",
+      "id": 593606523319951400,
+      "id_str": "593606523319951360",
+      "text": "Hello @ArcticSkyWolf, this is donkey. http://t.co/6yclmUQiBy",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 593605919528869900,
+      "in_reply_to_status_id_str": "593605919528869888",
+      "in_reply_to_user_id": 2257340120,
+      "in_reply_to_user_id_str": "2257340120",
+      "in_reply_to_screen_name": "ArcticSkyWolf",
+      "user": {
+        "id": 196858176,
+        "id_str": "196858176",
+        "name": "Rucio Donkey",
+        "screen_name": "RucioDonk",
+        "location": "Maryland",
+        "profile_location": null,
+        "description": "I'm a fuzzy big belly donkey! I like big trucks, bomb suits, hockey, beer, and geeky things. Please do not follow with AD accounts. 18+ only, no minors! SFW",
+        "url": "https://t.co/mo5LpTx9N3",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "indices": [
+                  0,
+                  23
+                ],
+                "display_url": "weasyl.com/~rucio",
+                "expanded_url": "https://www.weasyl.com/~rucio",
+                "url": "https://t.co/mo5LpTx9N3"
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2031,
+        "friends_count": 1541,
+        "listed_count": 20,
+        "created_at": "Thu Sep 30 02:09:02 +0000 2010",
+        "favourites_count": 20017,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 23855,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "4A913C",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/519329971504820226/8ZJ_xlKm.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/519329971504820226/8ZJ_xlKm.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/585609930318708740/wIymcWBl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/585609930318708740/wIymcWBl_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/196858176/1410926105",
+        "profile_link_color": "2B5423",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 1,
+      "favorite_count": 8,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "indices": [
+              6,
+              20
+            ],
+            "id_str": "2257340120",
+            "id": 2257340120,
+            "name": "FREEDOMMMMMNOMNOMNOM",
+            "screen_name": "ArcticSkyWolf"
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "sizes": {
+              "large": {
+                "resize": "fit",
+                "h": 768,
+                "w": 1024
+              },
+              "thumb": {
+                "resize": "crop",
+                "h": 150,
+                "w": 150
+              },
+              "medium": {
+                "resize": "fit",
+                "h": 450,
+                "w": 600
+              },
+              "small": {
+                "resize": "fit",
+                "h": 255,
+                "w": 340
+              }
+            },
+            "type": "photo",
+            "expanded_url": "http://twitter.com/RucioDonk/status/593606523319951360/photo/1",
+            "display_url": "pic.twitter.com/6yclmUQiBy",
+            "url": "http://t.co/6yclmUQiBy",
+            "media_url_https": "https://pbs.twimg.com/media/CDzp-0RVIAAUmIL.jpg",
+            "media_url": "http://pbs.twimg.com/media/CDzp-0RVIAAUmIL.jpg",
+            "indices": [
+              38,
+              60
+            ],
+            "id_str": "593606516298555392",
+            "id": 593606516298555400
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            3,
+            13
+          ],
+          "id_str": "196858176",
+          "id": 196858176,
+          "name": "Rucio Donkey",
+          "screen_name": "RucioDonk"
+        },
+        {
+          "indices": [
+            21,
+            35
+          ],
+          "id_str": "2257340120",
+          "id": 2257340120,
+          "name": "FREEDOMMMMMNOMNOMNOM",
+          "screen_name": "ArcticSkyWolf"
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "source_user_id_str": "196858176",
+          "source_user_id": 196858176,
+          "source_status_id_str": "593606523319951360",
+          "source_status_id": 593606523319951400,
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "h": 768,
+              "w": 1024
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 450,
+              "w": 600
+            },
+            "small": {
+              "resize": "fit",
+              "h": 255,
+              "w": 340
+            }
+          },
+          "type": "photo",
+          "expanded_url": "http://twitter.com/RucioDonk/status/593606523319951360/photo/1",
+          "display_url": "pic.twitter.com/6yclmUQiBy",
+          "url": "http://t.co/6yclmUQiBy",
+          "media_url_https": "https://pbs.twimg.com/media/CDzp-0RVIAAUmIL.jpg",
+          "media_url": "http://pbs.twimg.com/media/CDzp-0RVIAAUmIL.jpg",
+          "indices": [
+            53,
+            75
+          ],
+          "id_str": "593606516298555392",
+          "id": 593606516298555400
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "_id": "5541972e17d0023016c728e0",
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Thu Apr 30 02:44:30 +0000 2015",
+    "id": 593606825339068400,
+    "id_str": "593606825339068416",
+    "text": "Hello @AyuBona follow me yes, i've got limit to follow you. as soon i'll Follow You Back. Thank You ;)",
+    "source": "<a href=\"https://twitter.com/veronicawrlta\" rel=\"nofollow\">Twitter For Veronica</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2175008005,
+      "id_str": "2175008005",
+      "name": "VERONICA",
+      "screen_name": "veronicawrlta",
+      "location": "Jakarta Lovely City",
+      "profile_location": null,
+      "description": "Call Me Veronica | Single | Party Girls | Brand Ambassador | Entrepreneur |",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 9385,
+      "friends_count": 7954,
+      "listed_count": 255,
+      "created_at": "Tue Nov 05 00:18:16 +0000 2013",
+      "favourites_count": 0,
+      "utc_offset": 25200,
+      "time_zone": "Bangkok",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 232662,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000170101992/Aaipvld8.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000170101992/Aaipvld8.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/440838577618829313/1LR2ydZo_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/440838577618829313/1LR2ydZo_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2175008005/1390011152",
+      "profile_link_color": "000000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            6,
+            14
+          ],
+          "id_str": "614142151",
+          "id": 614142151,
+          "name": "ayu widi",
+          "screen_name": "AyuBona"
+        }
+      ],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "_id": "5541972e17d0023016c728e1",
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Thu Apr 30 02:44:30 +0000 2015",
+    "id": 593606824202412000,
+    "id_str": "593606824202412032",
+    "text": "Hello @fajarprakoso64 follow me yes, i've got limit to follow you. as soon i'll Follow You Back. Thank You ;)",
+    "source": "<a href=\"https://twitter.com/veronicawrlta\" rel=\"nofollow\">Twitter For Veronica</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2175008005,
+      "id_str": "2175008005",
+      "name": "VERONICA",
+      "screen_name": "veronicawrlta",
+      "location": "Jakarta Lovely City",
+      "profile_location": null,
+      "description": "Call Me Veronica | Single | Party Girls | Brand Ambassador | Entrepreneur |",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 9385,
+      "friends_count": 7954,
+      "listed_count": 255,
+      "created_at": "Tue Nov 05 00:18:16 +0000 2013",
+      "favourites_count": 0,
+      "utc_offset": 25200,
+      "time_zone": "Bangkok",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 232662,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000170101992/Aaipvld8.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000170101992/Aaipvld8.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/440838577618829313/1LR2ydZo_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/440838577618829313/1LR2ydZo_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2175008005/1390011152",
+      "profile_link_color": "000000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            6,
+            21
+          ],
+          "id_str": "366064902",
+          "id": 366064902,
+          "name": "Mahasiswa H-1 !",
+          "screen_name": "fajarprakoso64"
+        }
+      ],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "_id": "5541972e17d0023016c728e2",
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Thu Apr 30 02:44:30 +0000 2015",
+    "id": 593606823350906900,
+    "id_str": "593606823350906880",
+    "text": "Hello @AnjaniFiolek follow me yes, i've got limit to follow you. as soon i'll Follow You Back. Thank You ;)",
+    "source": "<a href=\"https://twitter.com/veronicawrlta\" rel=\"nofollow\">Twitter For Veronica</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2175008005,
+      "id_str": "2175008005",
+      "name": "VERONICA",
+      "screen_name": "veronicawrlta",
+      "location": "Jakarta Lovely City",
+      "profile_location": null,
+      "description": "Call Me Veronica | Single | Party Girls | Brand Ambassador | Entrepreneur |",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 9385,
+      "friends_count": 7954,
+      "listed_count": 255,
+      "created_at": "Tue Nov 05 00:18:16 +0000 2013",
+      "favourites_count": 0,
+      "utc_offset": 25200,
+      "time_zone": "Bangkok",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 232662,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000170101992/Aaipvld8.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000170101992/Aaipvld8.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/440838577618829313/1LR2ydZo_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/440838577618829313/1LR2ydZo_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2175008005/1390011152",
+      "profile_link_color": "000000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            6,
+            19
+          ],
+          "id_str": "137990374",
+          "id": 137990374,
+          "name": "Novita N Anjani P",
+          "screen_name": "AnjaniFiolek"
+        }
+      ],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "_id": "5541972e17d0023016c728e3",
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Thu Apr 30 02:44:29 +0000 2015",
+    "id": 593606822495326200,
+    "id_str": "593606822495326209",
+    "text": "Hello @saskiapa1000 follow me yes, i've got limit to follow you. as soon i'll Follow You Back. Thank You ;)",
+    "source": "<a href=\"https://twitter.com/veronicawrlta\" rel=\"nofollow\">Twitter For Veronica</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2175008005,
+      "id_str": "2175008005",
+      "name": "VERONICA",
+      "screen_name": "veronicawrlta",
+      "location": "Jakarta Lovely City",
+      "profile_location": null,
+      "description": "Call Me Veronica | Single | Party Girls | Brand Ambassador | Entrepreneur |",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 9385,
+      "friends_count": 7954,
+      "listed_count": 255,
+      "created_at": "Tue Nov 05 00:18:16 +0000 2013",
+      "favourites_count": 0,
+      "utc_offset": 25200,
+      "time_zone": "Bangkok",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 232662,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000170101992/Aaipvld8.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000170101992/Aaipvld8.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/440838577618829313/1LR2ydZo_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/440838577618829313/1LR2ydZo_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2175008005/1390011152",
+      "profile_link_color": "000000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            6,
+            19
+          ],
+          "id_str": "174157419",
+          "id": 174157419,
+          "name": "Saskia Pasaribu",
+          "screen_name": "saskiapa1000"
+        }
+      ],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "_id": "5541972e17d0023016c728e5",
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Thu Apr 30 02:44:29 +0000 2015",
+    "id": 593606821341892600,
+    "id_str": "593606821341892609",
+    "text": "Hello @ErvitaChaku follow me yes, i've got limit to follow you. as soon i'll Follow You Back. Thank You ;)",
+    "source": "<a href=\"https://twitter.com/veronicawrlta\" rel=\"nofollow\">Twitter For Veronica</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2175008005,
+      "id_str": "2175008005",
+      "name": "VERONICA",
+      "screen_name": "veronicawrlta",
+      "location": "Jakarta Lovely City",
+      "profile_location": null,
+      "description": "Call Me Veronica | Single | Party Girls | Brand Ambassador | Entrepreneur |",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 9385,
+      "friends_count": 7954,
+      "listed_count": 255,
+      "created_at": "Tue Nov 05 00:18:16 +0000 2013",
+      "favourites_count": 0,
+      "utc_offset": 25200,
+      "time_zone": "Bangkok",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 232662,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000170101992/Aaipvld8.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000170101992/Aaipvld8.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/440838577618829313/1LR2ydZo_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/440838577618829313/1LR2ydZo_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2175008005/1390011152",
+      "profile_link_color": "000000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            6,
+            18
+          ],
+          "id_str": "519966483",
+          "id": 519966483,
+          "name": "Ervita Yollanda",
+          "screen_name": "ErvitaChaku"
+        }
+      ],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "_id": "5541972e17d0023016c728e6",
+    "metadata": {
+      "iso_language_code": "tl",
+      "result_type": "recent"
+    },
+    "created_at": "Thu Apr 30 02:44:29 +0000 2015",
+    "id": 593606820712697900,
+    "id_str": "593606820712697856",
+    "text": "Hello po @arrangot noona :) http://t.co/73Bs52queV",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 268698074,
+      "id_str": "268698074",
+      "name": "fantastic bae bae ♥",
+      "screen_name": "dolphzkieee",
+      "location": "Philippines",
+      "profile_location": null,
+      "description": "Worshiper of the Lord / Kpop Fanboy / Anime Lover / Sports Fan / 17 / IT Student / PUPian / Dancer / Musician",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 269,
+      "friends_count": 351,
+      "listed_count": 3,
+      "created_at": "Sat Mar 19 08:38:52 +0000 2011",
+      "favourites_count": 11483,
+      "utc_offset": -28800,
+      "time_zone": "Alaska",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 6762,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/552705735692259329/nzxUcxMY.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/552705735692259329/nzxUcxMY.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/592306871723106304/C9__ahqf_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/592306871723106304/C9__ahqf_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/268698074/1427844743",
+      "profile_link_color": "B30000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            9,
+            18
+          ],
+          "id_str": "847667677",
+          "id": 847667677,
+          "name": "Arrah Atayde",
+          "screen_name": "arrangot"
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "h": 571,
+              "w": 500
+            },
+            "large": {
+              "resize": "fit",
+              "h": 571,
+              "w": 500
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "small": {
+              "resize": "fit",
+              "h": 388,
+              "w": 340
+            }
+          },
+          "type": "photo",
+          "expanded_url": "http://twitter.com/dolphzkieee/status/593606820712697856/photo/1",
+          "display_url": "pic.twitter.com/73Bs52queV",
+          "url": "http://t.co/73Bs52queV",
+          "media_url_https": "https://pbs.twimg.com/media/CDzqQYJUkAAiklG.jpg",
+          "media_url": "http://pbs.twimg.com/media/CDzqQYJUkAAiklG.jpg",
+          "indices": [
+            28,
+            50
+          ],
+          "id_str": "593606817986416640",
+          "id": 593606817986416600
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "tl"
+  },
+  {
+    "_id": "5541972e17d0023016c728e7",
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Thu Apr 30 02:44:29 +0000 2015",
+    "id": 593606820528132100,
+    "id_str": "593606820528132096",
+    "text": "Hello @inalthorra follow me yes, i've got limit to follow you. as soon i'll Follow You Back. Thank You ;)",
+    "source": "<a href=\"https://twitter.com/veronicawrlta\" rel=\"nofollow\">Twitter For Veronica</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2175008005,
+      "id_str": "2175008005",
+      "name": "VERONICA",
+      "screen_name": "veronicawrlta",
+      "location": "Jakarta Lovely City",
+      "profile_location": null,
+      "description": "Call Me Veronica | Single | Party Girls | Brand Ambassador | Entrepreneur |",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 9385,
+      "friends_count": 7954,
+      "listed_count": 255,
+      "created_at": "Tue Nov 05 00:18:16 +0000 2013",
+      "favourites_count": 0,
+      "utc_offset": 25200,
+      "time_zone": "Bangkok",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 232662,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000170101992/Aaipvld8.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000170101992/Aaipvld8.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/440838577618829313/1LR2ydZo_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/440838577618829313/1LR2ydZo_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2175008005/1390011152",
+      "profile_link_color": "000000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            6,
+            17
+          ],
+          "id_str": "779618887",
+          "id": 779618887,
+          "name": "Zainal Surianto",
+          "screen_name": "inalthorra"
+        }
+      ],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "_id": "5541972e17d0023016c728e8",
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Thu Apr 30 02:44:29 +0000 2015",
+    "id": 593606819773157400,
+    "id_str": "593606819773157377",
+    "text": "“@MySportsLegion: Kevin Love underwent surgery on his dislocated shoulder today and will miss 4 to 6 months.” Bye bye cleveland hello Lakers",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 593606276225065000,
+    "in_reply_to_status_id_str": "593606276225064960",
+    "in_reply_to_user_id": 291438698,
+    "in_reply_to_user_id_str": "291438698",
+    "in_reply_to_screen_name": "MySportsLegion",
+    "user": {
+      "id": 355914727,
+      "id_str": "355914727",
+      "name": "Jfry",
+      "screen_name": "JustinFrybergh",
+      "location": "",
+      "profile_location": null,
+      "description": "I like movies",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 361,
+      "friends_count": 819,
+      "listed_count": 8,
+      "created_at": "Tue Aug 16 02:27:29 +0000 2011",
+      "favourites_count": 15406,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 24203,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/554398496326164481/wiDy2DKx_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/554398496326164481/wiDy2DKx_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/355914727/1423628932",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            1,
+            16
+          ],
+          "id_str": "291438698",
+          "id": 291438698,
+          "name": "NBA Legion",
+          "screen_name": "MySportsLegion"
+        }
+      ],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "_id": "5541972e17d0023016c728e9",
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Thu Apr 30 02:44:29 +0000 2015",
+    "id": 593606819542478800,
+    "id_str": "593606819542478848",
+    "text": "Hello @divafebrina_ follow me yes, i've got limit to follow you. as soon i'll Follow You Back. Thank You ;)",
+    "source": "<a href=\"https://twitter.com/veronicawrlta\" rel=\"nofollow\">Twitter For Veronica</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2175008005,
+      "id_str": "2175008005",
+      "name": "VERONICA",
+      "screen_name": "veronicawrlta",
+      "location": "Jakarta Lovely City",
+      "profile_location": null,
+      "description": "Call Me Veronica | Single | Party Girls | Brand Ambassador | Entrepreneur |",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 9385,
+      "friends_count": 7954,
+      "listed_count": 255,
+      "created_at": "Tue Nov 05 00:18:16 +0000 2013",
+      "favourites_count": 0,
+      "utc_offset": 25200,
+      "time_zone": "Bangkok",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 232662,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000170101992/Aaipvld8.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000170101992/Aaipvld8.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/440838577618829313/1LR2ydZo_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/440838577618829313/1LR2ydZo_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2175008005/1390011152",
+      "profile_link_color": "000000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            6,
+            19
+          ],
+          "id_str": "1634948833",
+          "id": 1634948833,
+          "name": "Diva",
+          "screen_name": "divafebrina_"
+        }
+      ],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "_id": "5541972e17d0023016c728ea",
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Thu Apr 30 02:44:28 +0000 2015",
+    "id": 593606818632376300,
+    "id_str": "593606818632376320",
+    "text": "Hello @RiniPuspitas12 follow me yes, i've got limit to follow you. as soon i'll Follow You Back. Thank You ;)",
+    "source": "<a href=\"https://twitter.com/veronicawrlta\" rel=\"nofollow\">Twitter For Veronica</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2175008005,
+      "id_str": "2175008005",
+      "name": "VERONICA",
+      "screen_name": "veronicawrlta",
+      "location": "Jakarta Lovely City",
+      "profile_location": null,
+      "description": "Call Me Veronica | Single | Party Girls | Brand Ambassador | Entrepreneur |",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 9385,
+      "friends_count": 7954,
+      "listed_count": 255,
+      "created_at": "Tue Nov 05 00:18:16 +0000 2013",
+      "favourites_count": 0,
+      "utc_offset": 25200,
+      "time_zone": "Bangkok",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 232662,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000170101992/Aaipvld8.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000170101992/Aaipvld8.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/440838577618829313/1LR2ydZo_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/440838577618829313/1LR2ydZo_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2175008005/1390011152",
+      "profile_link_color": "000000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            6,
+            21
+          ],
+          "id_str": "1642881775",
+          "id": 1642881775,
+          "name": "Rini Puspita",
+          "screen_name": "RiniPuspitas12"
+        }
+      ],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "_id": "5541972e17d0023016c728eb",
+    "metadata": {
+      "iso_language_code": "es",
+      "result_type": "recent"
+    },
+    "created_at": "Thu Apr 30 02:44:28 +0000 2015",
+    "id": 593606818221264900,
+    "id_str": "593606818221264897",
+    "text": "Fierce. Hello. @AndreaFeczko @NathanBarnatt",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 593522796480696300,
+    "in_reply_to_status_id_str": "593522796480696320",
+    "in_reply_to_user_id": 29789545,
+    "in_reply_to_user_id_str": "29789545",
+    "in_reply_to_screen_name": "AndreaFeczko",
+    "user": {
+      "id": 425465994,
+      "id_str": "425465994",
+      "name": "Tshirtwoman",
+      "screen_name": "tshirtwoman19",
+      "location": "",
+      "profile_location": null,
+      "description": "I wear my sunglasses at night......",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 169,
+      "friends_count": 375,
+      "listed_count": 5,
+      "created_at": "Thu Dec 01 01:36:40 +0000 2011",
+      "favourites_count": 516,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 7736,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/513378242359619585/46Zl5NWP_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/513378242359619585/46Zl5NWP_normal.png",
+      "profile_link_color": "000011",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "place": {
+      "id": "96683cc9126741d1",
+      "url": "https://api.twitter.com/1.1/geo/id/96683cc9126741d1.json",
+      "place_type": "country",
+      "name": "United States",
+      "full_name": "United States",
+      "country_code": "US",
+      "country": "United States",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -179.231086,
+              13.182335
+            ],
+            [
+              179.859685,
+              13.182335
+            ],
+            [
+              179.859685,
+              71.434357
+            ],
+            [
+              -179.231086,
+              71.434357
+            ]
+          ]
+        ]
+      }
+    },
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            15,
+            28
+          ],
+          "id_str": "29789545",
+          "id": 29789545,
+          "name": "Andrea Feczko",
+          "screen_name": "AndreaFeczko"
+        },
+        {
+          "indices": [
+            29,
+            43
+          ],
+          "id_str": "58416211",
+          "id": 58416211,
+          "name": "Nathan Barnatt",
+          "screen_name": "NathanBarnatt"
+        }
+      ],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+  },
+  {
+    "_id": "5541972e17d0023016c728ec",
+    "metadata": {
+      "iso_language_code": "no",
+      "result_type": "recent"
+    },
+    "created_at": "Thu Apr 30 02:44:28 +0000 2015",
+    "id": 593606817902506000,
+    "id_str": "593606817902505984",
+    "text": "Hello Kk Seven @SuperSeven_S7 :)",
+    "source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1624938272,
+      "id_str": "1624938272",
+      "name": "B.F.A MYSTRS",
+      "screen_name": "Ino_Alditto",
+      "location": "East Java, Indonesia",
+      "profile_location": null,
+      "description": "•BFA •MYSTRS •RHNTCS •BNZ | IG: m_inoalditto | AskFm: Ino_Alditto | FllwdBy: @AjilDitto_S7 @Varadina_adisti @Herlina_Latieef @UmayKeren \\m/",
+      "url": "http://t.co/98pSNrVqNt",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "indices": [
+                0,
+                22
+              ],
+              "display_url": "twitter.com/bfajil_ngk",
+              "expanded_url": "http://twitter.com/bfajil_ngk",
+              "url": "http://t.co/98pSNrVqNt"
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1721,
+      "friends_count": 179,
+      "listed_count": 0,
+      "created_at": "Sat Jul 27 08:04:08 +0000 2013",
+      "favourites_count": 456,
+      "utc_offset": 25200,
+      "time_zone": "Jakarta",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 38371,
+      "lang": "id",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000069513871/d694535ffbdb9ff584bce64377165678.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000069513871/d694535ffbdb9ff584bce64377165678.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/491865422417772544/2nyD8q4u_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/491865422417772544/2nyD8q4u_normal.jpeg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            15,
+            29
+          ],
+          "id_str": "332801113",
+          "id": 332801113,
+          "name": "SUPER SEVEN OFFICIAL",
+          "screen_name": "SuperSeven_S7"
+        }
+      ],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "no"
+  },
+  {
+    "_id": "5541972e17d0023016c728ed",
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Thu Apr 30 02:44:28 +0000 2015",
+    "id": 593606817554378800,
+    "id_str": "593606817554378752",
+    "text": "Hello @fathello follow me yes, i've got limit to follow you. as soon i'll Follow You Back. Thank You ;)",
+    "source": "<a href=\"https://twitter.com/veronicawrlta\" rel=\"nofollow\">Twitter For Veronica</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2175008005,
+      "id_str": "2175008005",
+      "name": "VERONICA",
+      "screen_name": "veronicawrlta",
+      "location": "Jakarta Lovely City",
+      "profile_location": null,
+      "description": "Call Me Veronica | Single | Party Girls | Brand Ambassador | Entrepreneur |",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 9385,
+      "friends_count": 7954,
+      "listed_count": 255,
+      "created_at": "Tue Nov 05 00:18:16 +0000 2013",
+      "favourites_count": 0,
+      "utc_offset": 25200,
+      "time_zone": "Bangkok",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 232662,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000170101992/Aaipvld8.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000170101992/Aaipvld8.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/440838577618829313/1LR2ydZo_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/440838577618829313/1LR2ydZo_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2175008005/1390011152",
+      "profile_link_color": "000000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            6,
+            15
+          ],
+          "id_str": "808607856",
+          "id": 808607856,
+          "name": "20.3.11",
+          "screen_name": "fathello"
+        }
+      ],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "_id": "5541972e17d0023016c728ee",
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Thu Apr 30 02:44:28 +0000 2015",
+    "id": 593606816707129300,
+    "id_str": "593606816707129345",
+    "text": "Hello @NadiaRizkyA2 follow me yes, i've got limit to follow you. as soon i'll Follow You Back. Thank You ;)",
+    "source": "<a href=\"https://twitter.com/veronicawrlta\" rel=\"nofollow\">Twitter For Veronica</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2175008005,
+      "id_str": "2175008005",
+      "name": "VERONICA",
+      "screen_name": "veronicawrlta",
+      "location": "Jakarta Lovely City",
+      "profile_location": null,
+      "description": "Call Me Veronica | Single | Party Girls | Brand Ambassador | Entrepreneur |",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 9385,
+      "friends_count": 7954,
+      "listed_count": 255,
+      "created_at": "Tue Nov 05 00:18:16 +0000 2013",
+      "favourites_count": 0,
+      "utc_offset": 25200,
+      "time_zone": "Bangkok",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 232662,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000170101992/Aaipvld8.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000170101992/Aaipvld8.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/440838577618829313/1LR2ydZo_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/440838577618829313/1LR2ydZo_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2175008005/1390011152",
+      "profile_link_color": "000000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "indices": [
+            6,
+            19
+          ],
+          "id_str": "1701426883",
+          "id": 1701426883,
+          "name": "Mey.",
+          "screen_name": "NadiaRizkyA2"
+        }
+      ],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "name": "Lab_5",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "~4.2.0",
+    "fs": "latest",
+    "jsonfile": "latest",
+    "sparql": "^0.1.3",
+    "sparql-client": "^0.2.0",
+    "swig": "latest",
+    "twit": "^1.1.18",
+    "util": "^0.10.3"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.2.x"
+  }
+}
